@@ -1,0 +1,5 @@
+d_sum = float(input())
+d_months = int(input())
+lihven_proc = float(input())
+sum_overall = d_sum + d_months * ((d_sum * lihven_proc / 100) / 12)
+print(sum_overall)
