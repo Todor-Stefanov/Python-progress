@@ -1,7 +1,7 @@
 import math
 centuries = int(input())
 century_to_year = 100 * centuries
-year_to_days = math.floor(365.2422 * century_to_year)
+year_to_days = math.floor(365.2422 * century_to_year)  # assuming that a that one year has 365.2422 days on average 
 days_to_hours = 24 * year_to_days
 hours_to_minutes = days_to_hours * 60
 
