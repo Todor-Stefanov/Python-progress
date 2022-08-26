@@ -1,2 +1,1 @@
-# Python-progress/ 01. Basics
-First commits through Command Prompt and TortoiseGit
+# Write a program that reads an integer number of centuries and converts it to years, days, hours, and minutes.
