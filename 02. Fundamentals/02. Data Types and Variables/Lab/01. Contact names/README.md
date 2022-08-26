@@ -1,2 +1,1 @@
-# Python-progress/ 01. Basics
-First commits through Command Prompt and TortoiseGit
+#Write a program that reads two names and a delimiter. It should print the names joined by the delimiter.
