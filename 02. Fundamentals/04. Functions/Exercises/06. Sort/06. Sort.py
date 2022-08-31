@@ -1,0 +1,5 @@
+numbers = input().split(" ")
+list_of_numbers = list(map(int, numbers))
+sorted_list = sorted(list_of_numbers)
+sorted_list2 = sorted(list(map(int, input().split(" "))))
+print(sorted_list2)
