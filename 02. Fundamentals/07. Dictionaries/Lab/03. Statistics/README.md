@@ -6,6 +6,7 @@ You will be receiving key-value pairs on separate lines separated by **": "** un
 - **{product1}: {quantity1}**
 - **{product2}: {quantity2}**  
 **…**
-- **{productN}: {quantityN}**
-**Total Products: {count_all_products}**
+- **{productN}: {quantityN}**  
+
+**Total Products: {count_all_products}**  
 **Total Quantity: {sum_all_quantities}"**
